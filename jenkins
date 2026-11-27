@@ -1,1 +1,2 @@
 Kubernetes architecture follows a distributed client-server model split into two main layers: the Control Plane (which manages the cluster) and Worker Nodes (which run the applications)
+distributed client-server model
